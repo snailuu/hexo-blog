@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>阿锋的小屋</title>
+    <link>https://blogg.snailuu.cn/</link>
+    
+    <image>
+      <url>https://blogg.snailuu.cn/icon.png</url>
+      <title>阿锋的小屋</title>
+      <link>https://blogg.snailuu.cn/</link>
+    </image>
+    
+    <atom:link href="https://blogg.snailuu.cn/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>记录我的每一天的学习状态</description>
+    <pubDate>Sun, 18 Aug 2024 14:33:13 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>我对js隐式转换终于不用再靠_猜_了！</title>
+      <link>https://blogg.snailuu.cn/p/631632b8/</link>
+      <guid>https://blogg.snailuu.cn/p/631632b8/</guid>
+      <pubDate>Sun, 18 Aug 2024 22:30:05 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot; title=&quot;一、前言&quot;&gt;&lt;/a&gt;一、前言&lt;/h1&gt;&lt;p&gt;在项目开发或者面试中经常出现下面这种判断：&lt;/p&gt;
+&lt;figure class=&quot;highlight</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/631632b8/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>我是如何一步一步实现一个伪select功能的实现的？</title>
+      <link>https://blogg.snailuu.cn/p/b5c0032b/</link>
+      <guid>https://blogg.snailuu.cn/p/b5c0032b/</guid>
+      <pubDate>Thu, 11 Jul 2024 23:59:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;最终效果&quot;&gt;&lt;a href=&quot;#最终效果&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/b5c0032b/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>AI会就行了，我还要学正则表达式干嘛？</title>
+      <link>https://blogg.snailuu.cn/p/c1679184/</link>
+      <guid>https://blogg.snailuu.cn/p/c1679184/</guid>
+      <pubDate>Sun, 30 Jun 2024 22:01:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;现在 AI 都那么强大了我还为什么需要去学习&lt;strong&gt;正则表达式&lt;/strong&gt;这个烦人的东西呢？&lt;br&gt;问 AI：打开浏览器 -&amp;gt; 输入 chat.xxx.com -&amp;gt; 登录 -&amp;gt; 输入问题 -&amp;gt;得到答案&lt;br&gt;靠自己 🧠： 输入问题</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/c1679184/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Vue笔记[二]-路由篇</title>
+      <link>https://blogg.snailuu.cn/p/25bd8f08/</link>
+      <guid>https://blogg.snailuu.cn/p/25bd8f08/</guid>
+      <pubDate>Wed, 13 Sep 2023 21:08:20 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;基本使用&quot;&gt;&lt;a href=&quot;#基本使用&quot; class=&quot;headerlink&quot; title=&quot;基本使用&quot;&gt;&lt;/a&gt;基本使用&lt;/h1&gt;&lt;p&gt;官方文档：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/25bd8f08/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>用vue-cli创建第一个应用</title>
+      <link>https://blogg.snailuu.cn/p/602f60dc/</link>
+      <guid>https://blogg.snailuu.cn/p/602f60dc/</guid>
+      <pubDate>Thu, 07 Sep 2023 21:18:36 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;可能涉及文档：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cli.vuejs.org/zh/&quot;&gt;vue-cli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://nodejs.org/zh-cn&quot;&gt;node.js&lt;/a&gt;&lt;/p&gt;
+&lt;h1</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/602f60dc/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Vue笔记[一]-开始</title>
+      <link>https://blogg.snailuu.cn/p/9455ba8b/</link>
+      <guid>https://blogg.snailuu.cn/p/9455ba8b/</guid>
+      <pubDate>Thu, 07 Sep 2023 20:07:58 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://cn.vuejs.org/&quot;&gt;Vue&lt;/a&gt;一款&lt;strong&gt;用于构建用户界面&lt;/strong&gt;的</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/9455ba8b/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>前端表格数据的两种分页方式</title>
+      <link>https://blogg.snailuu.cn/p/57f9cd67/</link>
+      <guid>https://blogg.snailuu.cn/p/57f9cd67/</guid>
+      <pubDate>Thu, 27 Jul 2023 09:16:56 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;环境配置&quot;&gt;&lt;a href=&quot;#环境配置&quot; class=&quot;headerlink&quot; title=&quot;环境配置&quot;&gt;&lt;/a&gt;环境配置&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;编译器：vscode&lt;/li&gt;
+&lt;li&gt;开发框架：vue3&lt;/li&gt;
+&lt;li&gt;ui</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/57f9cd67/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>element-ui-plus组件英文改中文</title>
+      <link>https://blogg.snailuu.cn/p/8188b603/</link>
+      <guid>https://blogg.snailuu.cn/p/8188b603/</guid>
+      <pubDate>Wed, 26 Jul 2023 20:55:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;今天在 vue3 的项目中使用到了 element-ui-plus，在调用组件的时候发现渲染出来的默认都是英文版，对于我来说主要还是中文为主（还是因为英语太烂了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;方法-1：-全局引入&quot;&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/8188b603/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【前端知识文档集】标准库</title>
+      <link>https://blogg.snailuu.cn/p/c05caf28/</link>
+      <guid>https://blogg.snailuu.cn/p/c05caf28/</guid>
+      <pubDate>Wed, 26 Jul 2023 14:09:38 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;标准库&quot;&gt;&lt;a href=&quot;#标准库&quot; class=&quot;headerlink&quot; title=&quot;标准库&quot;&gt;&lt;/a&gt;标准库&lt;/h1&gt;&lt;h2 id=&quot;包装类&quot;&gt;&lt;a href=&quot;#包装类&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/c05caf28/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>grid布局</title>
+      <link>https://blogg.snailuu.cn/p/982491e9/</link>
+      <guid>https://blogg.snailuu.cn/p/982491e9/</guid>
+      <pubDate>Wed, 19 Jul 2023 10:08:24 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;属性介绍&quot;&gt;&lt;a href=&quot;#属性介绍&quot; class=&quot;headerlink&quot; title=&quot;属性介绍&quot;&gt;&lt;/a&gt;属性介绍&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;grid-template-columns&lt;/code&gt;：</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blogg.snailuu.cn/p/982491e9/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>实现svg描边动画</title>
+      <link>https://blogg.snailuu.cn/p/135a1a4b/</link>
+      <guid>https://blogg.snailuu.cn/p/135a1a4b/</guid>
+      <pubDate>Sun, 09 Jul 2023 13:28:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;成果展示&quot;&gt;&lt;a href=&quot;#成果展示&quot; class=&quot;headerlink&quot; title=&quot;成果展示&quot;&gt;&lt;/a&gt;成果展示&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://oss.snailuu.cn/hexo/gif/2023070901.gif&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blogg.snailuu.cn/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="https://blogg.snailuu.cn/tags/css/">css</category>
+      
+      <category domain="https://blogg.snailuu.cn/tags/svg/">svg</category>
+      
+      
+      <comments>https://blogg.snailuu.cn/p/135a1a4b/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>表单校验及提交</title>
+      <link>https://blogg.snailuu.cn/p/3c957a03/</link>
+      <guid>https://blogg.snailuu.cn/p/3c957a03/</guid>
+      <pubDate>Fri, 07 Jul 2023 11:07:04 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;应用场景&quot;&gt;&lt;a href=&quot;#应用场景&quot; class=&quot;headerlink&quot; title=&quot;应用场景&quot;&gt;&lt;/a&gt;应用场景&lt;/h1&gt;&lt;p&gt;今天在闲逛各种网站的时候，在登录或注册页面会出现这样子的情况：&lt;br&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blogg.snailuu.cn/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="https://blogg.snailuu.cn/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/">知识点</category>
+      
+      <category domain="https://blogg.snailuu.cn/tags/element-ui/">element-ui</category>
+      
+      
+      <comments>https://blogg.snailuu.cn/p/3c957a03/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>前端零碎小知识</title>
+      <link>https://blogg.snailuu.cn/p/25c31a8f/</link>
+      <guid>https://blogg.snailuu.cn/p/25c31a8f/</guid>
+      <pubDate>Wed, 05 Jul 2023 09:48:22 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;js-部分&quot;&gt;&lt;a href=&quot;#js-部分&quot; class=&quot;headerlink&quot; title=&quot;js 部分&quot;&gt;&lt;/a&gt;js 部分&lt;/h1&gt;&lt;h2 id=&quot;export&quot;&gt;&lt;a href=&quot;#export&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blogg.snailuu.cn/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="https://blogg.snailuu.cn/tags/%E6%97%A5%E6%9B%B4/">日更</category>
+      
+      <category domain="https://blogg.snailuu.cn/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/">知识点</category>
+      
+      
+      <comments>https://blogg.snailuu.cn/p/25c31a8f/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于vuex的小知识</title>
+      <link>https://blogg.snailuu.cn/p/8ad80637/</link>
+      <guid>https://blogg.snailuu.cn/p/8ad80637/</guid>
+      <pubDate>Sun, 02 Jul 2023 14:27:19 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;官方文档&lt;/strong&gt;&lt;/p&gt;
+&lt;div calss=&#39;anzhiyu-tag-link&#39;&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blogg.snailuu.cn/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="https://blogg.snailuu.cn/tags/vuex/">vuex</category>
+      
+      
+      <comments>https://blogg.snailuu.cn/p/8ad80637/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>用json-server模拟后端接口</title>
+      <link>https://blogg.snailuu.cn/p/30f65c9e/</link>
+      <guid>https://blogg.snailuu.cn/p/30f65c9e/</guid>
+      <pubDate>Fri, 30 Jun 2023 09:10:11 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;json-server-是什么？&quot;&gt;&lt;a href=&quot;#json-server-是什么？&quot; class=&quot;headerlink&quot; title=&quot;json-server 是什么？&quot;&gt;&lt;/a&gt;json-server 是什么？&lt;/h1&gt;&lt;h2 id=&quot;需求来源&quot;&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blogg.snailuu.cn/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="https://blogg.snailuu.cn/tags/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      
+      <comments>https://blogg.snailuu.cn/p/30f65c9e/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>利用github-Action实现自动化部署</title>
+      <link>https://blogg.snailuu.cn/p/9afd8765/</link>
+      <guid>https://blogg.snailuu.cn/p/9afd8765/</guid>
+      <pubDate>Sat, 24 Jun 2023 22:05:45 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前提要求&quot;&gt;&lt;a href=&quot;#前提要求&quot; class=&quot;headerlink&quot; title=&quot;前提要求&quot;&gt;&lt;/a&gt;前提要求&lt;/h1&gt;&lt;h2 id=&quot;创建两个远程仓库&quot;&gt;&lt;a href=&quot;#创建两个远程仓库&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blogg.snailuu.cn/categories/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      
+      <category domain="https://blogg.snailuu.cn/tags/GitHub/">GitHub</category>
+      
+      <category domain="https://blogg.snailuu.cn/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/">自动化</category>
+      
+      
+      <comments>https://blogg.snailuu.cn/p/9afd8765/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
